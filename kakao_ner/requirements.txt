@@ -1,6 +1,0 @@
-# requirements.txt
-Flask
-requests
-openai
-google-generativeai
-gunicorn  # Vercel에서 Python 앱을 실행하기 위한 WSGI 서버
